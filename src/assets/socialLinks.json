@@ -14,8 +14,8 @@
   {
     "name": "QQ",
     "icon": "/images/icon/qq.png",
-    "tip": "954158026",
-    "url": "https://res.abeim.cn/api/qq/?qq=954158026"
+    "tip": "点击链接加群",
+    "url": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Bq4udFRCtLoMRNigYWjbQ5S9kDzymnuW&authKey=wdwux3VTRDmM97ZX2aezBJQkkExhMs%2FtSKgJWKp1JDW8obJaffAUqItBFSd%2F7fpS&noverify=0&group_code=819242305"
   },
   {
     "name": "Email",
@@ -34,11 +34,5 @@
     "icon": "/images/icon/telegram.png",
     "tip": "你懂的 ~",
     "url": "https://sw.xmg888.top"
-  }
-  {
-    "name": "QQ群",
-    "icon": "/images/icon/telegram.png",
-    "tip": "点击链接加群",
-    "url": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Bq4udFRCtLoMRNigYWjbQ5S9kDzymnuW&authKey=wdwux3VTRDmM97ZX2aezBJQkkExhMs%2FtSKgJWKp1JDW8obJaffAUqItBFSd%2F7fpS&noverify=0&group_code=819242305"
-  }
+  } 
 ]
