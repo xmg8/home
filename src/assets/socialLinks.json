@@ -3,34 +3,42 @@
     "name": "微信",
     "icon": "/images/icon/github.png",
     "tip": "954158026"
+    "url": "https://sw.xmg888.top"
   },
   {
     "name": "WhatsApp",
     "icon": "/images/icon/bilibili.png",
     "tip": "+8618740948912"
+    "url": "https://sw.xmg888.top"
   },
   {
     "name": "QQ",
     "icon": "/images/icon/qq.png",
-    "tip": "有什么事吗",
+    "tip": "954158026",
     "url": "https://res.abeim.cn/api/qq/?qq=954158026"
   },
   {
     "name": "Email",
     "icon": "/images/icon/email.png",
     "tip": "来封 Email ~",
-    "url": "xm@xmg999.top"
+    "url": "https://sw.xmg888.top"
   },
   {
     "name": "line ID",
     "icon": "/images/icon/twitter.png",
     "tip": "xmg996",
-    "url": "https://twitter.com/iimmsyy"
+    "url": "https://sw.xmg888.top"
   },
   {
     "name": "Telegram",
     "icon": "/images/icon/telegram.png",
     "tip": "你懂的 ~",
-    "url": "https://t.me/bottom_user"
+    "url": "https://sw.xmg888.top"
+  }
+  {
+    "name": "QQ群",
+    "icon": "/images/icon/telegram.png",
+    "tip": "点击链接加群",
+    "url": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Bq4udFRCtLoMRNigYWjbQ5S9kDzymnuW&authKey=wdwux3VTRDmM97ZX2aezBJQkkExhMs%2FtSKgJWKp1JDW8obJaffAUqItBFSd%2F7fpS&noverify=0&group_code=819242305"
   }
 ]
